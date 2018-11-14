@@ -13,3 +13,58 @@ header.header-menu {
     margin: 0 auto;
     padding-top: 77px
 }
+
+ul.list-menu {
+    width: 573px;
+    height: 11px;
+    margin: 0 auto;
+    padding: 0;
+    font-size: 0;
+}
+li.list-title_left {
+    margin-left: 0;
+}
+
+li {
+    font-size: 14px;
+    display: inline-block;
+    margin-left: 100px;
+}
+
+a {
+    text-decoration: none;
+    text-transform: uppercase;
+
+}
+p, h3 {
+    padding-top: 20px;
+}
+
+div.box {
+    margin: 130px auto 0;
+    width: 1000px;
+    height: 478px;
+}
+div.section {
+    display: inline-block;
+    margin: 0 auto;
+    height: 478;
+    width: 420;
+    padding-left: 60px;
+}
+
+img {
+    width: 420px;
+    height: 280px;
+}
+
+p {
+    width: 420px;
+}
+
+button {
+    background-color: white;
+    width: 164px;
+    height: 60px;
+    margin: 54px 530px 70px 507px;
+}

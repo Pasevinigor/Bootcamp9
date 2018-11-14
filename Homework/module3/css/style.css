@@ -1,0 +1,15 @@
+* {
+    border: 1px solid lightgreen;
+    margin: 0;
+    font-family: 'Playfair Display', serif;
+}
+
+body {
+    width: 1200;
+    height: 2079;
+}
+
+header.header-menu {
+    margin: 0 auto;
+    padding-top: 77px
+}

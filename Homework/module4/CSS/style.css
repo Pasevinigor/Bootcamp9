@@ -41,18 +41,17 @@ h1::first-letter{
     font-family: Open Sans, sans-serif;
     color: #0f0101;
 }
-.menu-link:hover{
+.menu-link:hover {
     color: #1abc9c;
 }
 
-.name:hover{
+.prod-link:hover .name {
     background-color: #1abc9c;
 }
 
-.price:hover{
+.prod-link:hover .price {
     background-color: #7fd9c7;
 }
-
 
 .products-title, .title-news {
     font-family: Roboto, sans-serif;
@@ -105,7 +104,7 @@ h1::first-letter{
     width: 20%;
 }
 
-.prod-link {
+.prod-link{
     text-decoration: none;
     color: white;
 }

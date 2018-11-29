@@ -1,0 +1,86 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.wrapper_pi{
+    padding-top: 50px;
+    display: flex;
+    width: 1150px;
+    justify-content: space-between;
+    margin: 0 auto;
+}
+.form_pi{
+    display: flex;
+    flex-direction: column;
+    color: #d9d9d9;
+}
+.name_pi{
+    transition-duration: 1s;
+    padding: 13px 28px;
+    margin-bottom: 10px;
+    font-size: 15px;
+    border: 2px solid #d9d9d9;
+}
+.email_pi{ 
+    transition-duration: 1s;
+    padding: 13px 28px;
+    margin-bottom: 10px;
+    font-size: 15px;
+    border: 2px solid #d9d9d9;
+}
+.text-area_pi{
+    transition-duration: 1s;
+    height: 125px;
+    margin-bottom: 22px;
+    font-size: 15px;
+    border: 2px solid #d9d9d9;
+    padding: 18px 27px;
+}
+.submit_pi{
+    transition-duration: 1s;
+    text-transform: uppercase;
+    font-size: 15px;
+    width: 130px;
+    height: 38px;
+    border: 2px solid #d9d9d9;
+    background-color: rgba(0, 0, 0, 0)
+}
+.form-wrapper_pi{
+    width: 620px;
+}
+.contact_pi{
+    width: 470px;
+}
+.form-title_pi, .contact-info_pi{
+    padding-bottom: 35px;
+    text-transform: uppercase;
+    font-size: bold;
+    font-weight: 700;
+}
+.contact-text_pi{
+    font-size: 16px;
+    padding-bottom: 28px;
+}
+.adress-text_pi{
+    vertical-align: middle;
+}
+.name_pi:hover{
+    transition-property: all;
+    transition-duration: 1s;
+    border: 2px solid #f39c12;
+}
+.email_pi:hover{
+    transition-property: all;
+    transition-duration: 1s;
+    border: 2px solid #f39c12;
+}
+.text-area_pi:hover{
+    transition-property: all;
+    transition-duration: 1s;
+    border: 2px solid #f39c12;
+}
+.submit_pi:hover{
+    transition-property: all;
+    transition-duration: 1s;
+    border: 2px solid #f39c12;
+}

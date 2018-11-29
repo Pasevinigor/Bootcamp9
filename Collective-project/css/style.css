@@ -153,48 +153,44 @@
 
 .footer-link:hover{
     color: #c7b299;
-    font-size: 14px;
-    transition-duration: 1s;
+    /* font-size: 14px; */
+    transition-duration: 500ms;
     text-shadow: 0px 0px 30px rgba(255, 71, 0, 1);
 }
 .footer-menu_link:hover{
     color: #c7b299;
-    font-size: 14px;
-    transition-duration: 1s;
+    /* font-size: 14px; */
+    transition-duration: 500ms;
     text-shadow: 0px 0px 30px rgba(255, 71, 0, 1);
 }
 .footer-subtitle, .footer-time{
-    transition-duration: 1s;
+    transition-duration: 500ms;
 }
 .footer-text, .footer-text_time{
-    transition-duration: 1s;
+    transition-duration: 500ms;
 }
 .footer-transform:hover .footer-text{
     color: #c7b299;
-    font-size: 15px;
-    transition-duration: 1s;
+    /* font-size: 15px; */
+    transition-duration: 500ms;
     text-shadow: 0px 0px 30px rgba(255, 71, 0, 1);
 }
 .footer-transform:hover .footer-text_time{
     color: #c7b299;
-    font-size: 15px;
-    transition-duration: 1s;
+    /* font-size: 15px; */
+    transition-duration: 500ms;
     text-shadow: 0px 0px 30px rgba(255, 71, 0, 1);
 }
 .footer-transform:hover .footer-time{
     color: #c7b299;
-    font-size: 13px;
-    transition-duration: 1s;
+    /* font-size: 13px; */
+    transition-duration: 500ms;
     text-shadow: 0px 0px 30px rgba(255, 71, 0, 1);
 }
 .footer-transform:hover .footer-subtitle{
     color: #c7b299;
-    font-size: 13px;
-    transition-duration: 1s;
+    /* font-size: 13px; */
+    transition-duration: 500ms;
     text-shadow: 0px 0px 30px rgba(255, 71, 0, 1);
 }
-.div{
-    display: flex;
-    width: 200px;
-    height: 50px;
-}
+
